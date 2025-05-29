@@ -1,6 +1,7 @@
 
 # Note Avançado 
 Um Note avançado, com funcionalidades avançadas, feito no curso do Matheus Battisti
+Mais funcionalizas mais tarde...
 
 
 ## Funcionalidades
@@ -13,7 +14,6 @@ Um Note avançado, com funcionalidades avançadas, feito no curso do Matheus Bat
 - As notas são salvas no LocalStorage
 - Exportar em CSV
 - Responsividade 
-Mais funcionalizas mais tarde...
 
 ## Screenshots
 
