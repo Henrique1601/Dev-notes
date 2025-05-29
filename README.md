@@ -26,7 +26,7 @@ Mais funcionalizas mais tarde...
 Clone o projeto
 
 ```bash
-  git clone 
+  git clone  https://github.com/Henrique1601/Dev-notes
 ```
 
 ## Stack utilizada
